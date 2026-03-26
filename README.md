@@ -3,9 +3,9 @@ C module 1
 
 EX NO-1)e)-To calculate the total, average and percentage of marks in 4 subjects. 
 
-Date:19/10/2025
-Name:VASANTH S
-Ref no:25017538
+Date:26.03.2026
+Name:Hari prasath M
+Ref no:25018172
 
 
 AIM:
